@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e985"],{d5db:function(n,e,t){"use strict";t.r(e);var l=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},s=[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"planer"},[t("h1",[n._v("Ausbildungsplan")])])}],u=t("2877"),a={},c=Object(u["a"])(a,l,s,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d21e985.cdc6a2be.js.map
